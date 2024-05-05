@@ -7,6 +7,8 @@
 </head>
 <body>
     <h1>Selamat Datang Semua</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi earum labore eaque, quidem repudiandae consequuntur, eveniet delectus necessitatibus, in placeat sunt voluptatum eligendi dignissimos quas voluptate consectetur accusantium temporibus animi.</p>
     
 </body>
 </html>
